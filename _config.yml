@@ -79,5 +79,5 @@ theme: next
 # repo: git@github.com:JakeVivit/JakeVivit.github.io.git
 deploy:
   type: git
-  repo: git@49.51.10.91:/data/GitLibrary/hexo.git
+  repo: git@github.com:JakeVivit/JakeVivit.github.io.git
   branch: master
