@@ -19,7 +19,7 @@ permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: public
+public_dir: pubilc
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
@@ -79,5 +79,5 @@ theme: next
 # repo: git@github.com:JakeVivit/JakeVivit.github.io.git
 deploy:
   type: git
-  repo: git@github.com:JakeVivit/JakeVivit.github.io.git
+  repo: git@49.51.10.91:/data/GitLibrary/hexo.git
   branch: master
