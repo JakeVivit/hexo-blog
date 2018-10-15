@@ -1,7 +1,14 @@
 ---
 title: 一行命令解决Vue和React打包部署上线
 date: 2018-10-14 22:12:28
-tags: pscp bat vue react 部署上传 服务器
+tags: 
+    -pscp 
+    -bat 
+    -vue 
+    -react 
+    -部署上传 
+    -服务器
+categories: Windows
 ---
 
 ## 一行命令解决Vue和React打包部署上线
