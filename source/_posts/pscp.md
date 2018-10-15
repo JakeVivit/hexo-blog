@@ -55,5 +55,5 @@ echo ====================upload successful=====================
 ### 4. 总结
 主要就是.bat脚本这段代码， call 是bat语法，意思是按顺序执行命令，当然 bat 还有很多高级语法，有兴趣的童鞋可以进一步了解，你学会了吗？
 
-个人博客：www.jyjvip.com 
+个人博客：www.jyjvip.cn <br/>>
 GitHub: https://github.com/JakeVivit/hexo-blog
